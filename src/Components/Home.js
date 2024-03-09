@@ -40,7 +40,7 @@ export default function Home() {
                     </div>
                     {/* <p>As a software engineering student, I approach every project with a deep sense of curiosity and a willing to learn new things. While designing small websites and developing small games I bring my creativity and attention to detail to every aspect of the project.I am always open to feedback and suggestions, and I work closely with team members to ensure that everyone's needs are met.</p> */}
                 
-            <button className='btn'> <a href="#about">KNOW MORE</a> </button>
+            <button className='btn btn-know'> <a href="#about">KNOW MORE</a> </button>
             <button className='btn'> <a href="https://kedar-guide.netlify.app"> DEMO WORK</a> </button>
                 </div>
             </div>

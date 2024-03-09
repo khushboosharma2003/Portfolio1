@@ -12,14 +12,18 @@ export default function Navbar() {
             <div className="navbar ">
                 <div className="head">
                  <img src={me} alt="" /> 
-                 <span>Khubu </span>
+                 <span>
+                    Khubu </span>
                 </div>
                 <div className="nav">
-                    <Link to="/">HOME</Link>
+                    <Link className='btn-home' to="/">HOME</Link>
                     <Link to="/Skills">SKILLS</Link>
                     <Link to="/Project">PROJECTS</Link>
                     <Link to="/Contact">CONTACT</Link>
-                    <Link to="/Gallery">GALLERY</Link>
+                    <Link className='btn-gal' to="/Gallery">GALLERY</Link>
+              
+
+              
                 </div>
             </div>
         </div>
