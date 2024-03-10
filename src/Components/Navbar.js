@@ -18,7 +18,7 @@ export default function Navbar() {
                     Khubu </Link></span>
                 </div>
                 <div className="nav">
-                    <Link  to="/">HOME</Link>
+                    <Link to="/">HOME</Link>
                     <Link to="/Skills">SKILLS</Link>
                     <Link to="/Project">PROJECTS</Link>
                     <Link className='btn-home' to="/Contact">CONTACT</Link>
