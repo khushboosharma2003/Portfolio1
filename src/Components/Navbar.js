@@ -1,5 +1,6 @@
 import React from 'react'
 import me from './forml.jpg'
+import Display from './Display';
 import {
     BrowserRouter as Router,
     Switch,
@@ -13,14 +14,15 @@ export default function Navbar() {
                 <div className="head">
                  <img src={me} alt="" /> 
                  <span>
-                    Khubu </span>
+                    <Link to="/">
+                    Khubu </Link></span>
                 </div>
                 <div className="nav">
                     <Link className='btn-home' to="/">HOME</Link>
                     <Link to="/Skills">SKILLS</Link>
                     <Link to="/Project">PROJECTS</Link>
                     <Link to="/Contact">CONTACT</Link>
-                    <Link className='btn-gal' to="/Gallery">GALLERY</Link>
+                    <Link className='btn-gal' to="/Display">GALLERY</Link>
               
 
               

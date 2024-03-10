@@ -5,6 +5,7 @@ import Navbar from './Components/Navbar';
 import Home from './Components/Home'; 
 // import About from './Components/About';
 import Project from './Components/Project';
+import Display from './Components/Display';
 import Contact from './Components/Contact';
 import {
   BrowserRouter as Router,
@@ -24,6 +25,7 @@ function App() {
     <Route path="/Skills" element={<Skills />} />
     <Route path="/Project" element={<Project />} />
     <Route path="/Contact" element={<Contact />} />
+    <Route path="/Display" element={<Display />} />
     </Routes>
    </Router>
   </>

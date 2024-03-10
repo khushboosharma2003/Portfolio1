@@ -69,10 +69,7 @@ a{
   box-shadow:
   0 0 25px rgb(255, 255, 255) ;
 }
-span{
-
-
-
+.navbar .head span a {
   font-size: 26px;
   font-weight: 900px;
   color: rgb(3, 255, 247);
