@@ -14,11 +14,11 @@ export default function Navbar() {
                 <div className="head">
                  <img src={me} alt="" /> 
                  <span>
-                    <Link to="/">
+                    <Link to="/Portfolio_react">
                     Khubu </Link></span>
                 </div>
                 <div className="nav">
-                    <Link to="/">HOME</Link>
+                    <Link to="/Portfolio_react">HOME</Link>
                     <Link to="/Skills">SKILLS</Link>
                     <Link to="/Project">PROJECTS</Link>
                     <Link className='btn-home' to="/Contact">CONTACT</Link>

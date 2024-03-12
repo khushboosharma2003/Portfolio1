@@ -21,7 +21,7 @@ function App() {
    <Navbar/>
    <Routes>
 
-   <Route path="/" element={<Home />} />
+   <Route path="/Portfolio_react" element={<Home />} />
     <Route path="/Skills" element={<Skills />} />
     <Route path="/Project" element={<Project />} />
     <Route path="/Contact" element={<Contact />} />
