@@ -16,7 +16,7 @@ export default function Project() {
                 <img src="https://as2.ftcdn.net/v2/jpg/01/43/00/99/1000_F_143009916_HMJKrrYDQYKTNRSwSlrUZadAwtC10t78.jpg"/>
                 <h3>PORTFOLIO</h3>
                 <p><span className="badge text-bg-danger">React-JS</span> <hr />My portfolio is like a picture book of what I've done and learned. It shows off all the projects I've worked on, the certificates I've earned, and the skills I've picked up along the way. </p>
-                <button className="btn"> <a href="https://github.com/khushboosharma2003/Text_tool.git">KNOW MORE </a></button>
+                <button className="btn"> <a href="https://github.com/khushboosharma2003/Portfolio_react.git">KNOW MORE </a></button>
             </div>
             <div className="page">
                <img src="https://play-lh.googleusercontent.com/TORRkFLhSd7_q8WmKR4oQ_Yi7IzbtJ_b28d5UCmPr8j9JKGtO72HXYYIPT182o_GfKhf"/ >
