@@ -12,6 +12,39 @@ export default function Project() {
             have learned during the whole semester
         </p>
         <div className="book ">
+        <div className="page ">
+                <img src="https://as2.ftcdn.net/v2/jpg/01/43/00/99/1000_F_143009916_HMJKrrYDQYKTNRSwSlrUZadAwtC10t78.jpg"/>
+                <h3>PORTFOLIO</h3>
+                <p><span className="badge text-bg-danger">React-JS</span> <hr />My portfolio is like a picture book of what I've done and learned. It shows off all the projects I've worked on, the certificates I've earned, and the skills I've picked up along the way. </p>
+                <button className="btn"> <a href="https://github.com/khushboosharma2003/Text_tool.git">KNOW MORE </a></button>
+            </div>
+            <div className="page">
+               <img src="https://play-lh.googleusercontent.com/TORRkFLhSd7_q8WmKR4oQ_Yi7IzbtJ_b28d5UCmPr8j9JKGtO72HXYYIPT182o_GfKhf"/ >
+                <h3>Shopping Website</h3>
+                <p> <span className="badge text-bg-danger">React JS</span> <hr />Building a shopping website with ReactJS that not only fetches product details from a fake API but also adds a special touch with a 'Add to Wishlist' feature. 
+ </p>
+                <button className="btn"> <a href=" https://github.com/khushboosharma2003/shopping_website.git">KNOW MORE </a></button>
+            </div>
+        <div className="page ">
+                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTf0xJ7W1AaWs3L0HwZxU93ojUig3gPK2-l3w&usqp=CAU"/>
+                <h3>TEXTOOL</h3>
+                <p><span className="badge text-bg-danger">React-JS</span> <hr />This is used to manipulate the text we can convert text to speech, lowercase , uppercase , removing extra space ,copy text etc . </p>
+                <button className="btn"> <a href="https://github.com/khushboosharma2003/Text_tool.git">KNOW MORE </a></button>
+            </div>
+            <div className="page ">
+                <img src="https://lindungihutan.com/blog/wp-content/uploads/2022/07/Pengertian-website.png"/>
+                <h3>WEATHER API</h3>
+                <p><span className="badge text-bg-danger">React-JS</span> <hr />This is a site used to access to real-time weather data and forecasts for various locations worldwide.  </p>
+                <button className="btn"> <a href="https://github.com/khushboosharma2003/Python_game/blob/main/turtle_race.py">KNOW MORE </a></button>
+            </div>
+            <div className="page">
+               <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRNj25MbOQ7mjDII1lz87zp7IZ7a8a9rUQIw&usqp=CAU"/ >
+                <h3>NEWS 24</h3>
+                <p> <span className="badge text-bg-danger">React JS</span> <hr />A dynamic website that keeps you in the loop with up-to-the-minute news! Using the NewsAPI, this site fetches the most recent updates, ensuring you're always in the know.  
+ </p>
+                <button className="btn"> <a href="https://github.com/khushboosharma2003/news24.git">KNOW MORE </a></button>
+            </div>
+
         <div className="page">
                <img src="https://photos5.appleinsider.com/gallery/46267-90137-Apple-iCloud-Keychain-xl.jpg"/ >
                 <h3>Password Manager</h3>
@@ -19,7 +52,8 @@ export default function Project() {
                 <p> <span className="badge text-bg-danger">Python</span> <hr />t keeps your passwords safe in JSON file. Also create strong passwords with a mix of letters, numbers, and symbols.
  </p>
                 <button className="btn"> <a href=" https://github.com/khushboosharma2003/Python_password_manager.git">KNOW MORE </a></button>
-            </div> <div className="page">
+            </div>
+             <div className="page">
                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRy4aQ_tOnS9Bfpv5FgQW-PJcJZc5UDzbvI_HNywrybXpibSTtgfR93YAE6vIMBOmehesI&usqp=CAU"/ >
                 <h3>Snake Game</h3>
                 
@@ -37,7 +71,8 @@ export default function Project() {
                 
                 <p> <span className="badge text-bg-danger">Python</span> <hr />The Quote Generator is a Python app that delivers random inspirational quotes from a collection.  </p>
                 <button className="btn"> <a href="https://github.com/khushboosharma2003/Python_rand_quote_generator.git">KNOW MORE </a></button>
-            </div> <div className="page">
+            </div>
+             <div className="page">
                <img src="https://hmadmin.hamleys.in/product/492363436/665/492363436-3.jpg"/ >
                 <h3>Drawing Board </h3>
                 
@@ -51,18 +86,7 @@ export default function Project() {
                 <p> <span className="badge text-bg-danger">Python</span> <hr /> Basic game asking color of turtle to choose and move at random pace and the one who cross the line first win the game. </p>
                 <button className="btn"> <a href="https://github.com/khushboosharma2003/Python_game/blob/main/turtle_race.py">KNOW MORE </a></button>
             </div>
-            <div className="page ">
-                <img src="https://pbs.twimg.com/profile_images/470632818653921280/l5V_RKUu_400x400.png"/>
-                <h3>TEXTUTILS</h3>
-                <p><span className="badge text-bg-danger">React-JS</span> <hr />This is used to manipulate the text we can convert text to lowercase , uppercase , removing extra space ,copy text etc . </p>
-                <button className="btn"> <a href="https://github.com/khushboosharma2003/Python_game/blob/main/turtle_race.py">KNOW MORE </a></button>
-            </div>
-            <div className="page ">
-                <img src="https://lindungihutan.com/blog/wp-content/uploads/2022/07/Pengertian-website.png"/>
-                <h3>WEATHER API</h3>
-                <p><span className="badge text-bg-danger">React-JS</span> <hr />This is a site used to access to real-time weather data and forecasts for various locations worldwide.  </p>
-                <button className="btn"> <a href="https://github.com/khushboosharma2003/Python_game/blob/main/turtle_race.py">KNOW MORE </a></button>
-            </div>
+            
             <div className="page">
                <img src="https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/160865305/original/5051d5b50165ae7db71b27b72324770e9f7a3e0e/build-a-python-project-for-you.jpg"/ >
                 <h3>RANDOM QUOTE GENERATOR</h3>
@@ -106,12 +130,6 @@ export default function Project() {
                 <button className="btn"> <a href="https://github.com/khushboosharma2003/calci.git">KNOW MORE </a></button>
             </div>
           
-            {/* <div className="page">
-               <img src="https://resources.pulse.icc-cricket.com/photo-resources/2019/10/16/cc55b799-001b-4acb-9846-c7f881115574/Dhoni.jpg?width=640&height=360"/ >
-                <h3>TRIBUTE PAGE.</h3>
-                <p> <span className="badge text-bg-danger">HTML CSS</span> <hr />This is the my first basic webpage that i made containing some information of Cricketer MS Dhoni.  </p>
-                <button className="btn"> <a href="https://github.com/khushboosharma2003/tributepage.git">KNOW MORE </a></button>
-            </div> */}
             
       </div>
     </div>
